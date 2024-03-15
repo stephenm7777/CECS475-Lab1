@@ -1,0 +1,14 @@
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\16263\Desktop\Spring 24'\CECS 429\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\16263\Desktop\Spring 24'\CECS 475\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
